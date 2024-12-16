@@ -31,14 +31,14 @@ This is a responsive, clean, and user-friendly e-commerce webpage that showcases
 ## Project Structure
 
 The project has the following structure:
-
+'''
 /ecommerce-website/
 ├── index.html        # Main HTML file (home page)
 ├── style.css         # CSS file for styling the website
 ├── script.js         # JavaScript file
 ├── images/           # Folder containing images for products, logos, and features
 └── README.md         # This README file
-
+'''
 
 ## Installation
 
