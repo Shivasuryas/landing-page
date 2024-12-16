@@ -32,7 +32,12 @@ This is a responsive, clean, and user-friendly e-commerce webpage that showcases
 
 The project has the following structure:
 
-/ecommerce-website/ ├── index.html # Main HTML file (home page)├── style.css # CSS file for styling the website ├──script.js #js file ├── images/ # Folder containing images for products, logos, and features │ ├── logo.png # Logo image │ ├── features/ # Folder containing feature images (f1.png, f2.png, etc.) │ ├── products/ # Folder containing product images (f1.jpg, f2.jpg, etc.) │ └── ...  └── README.md # This README file
+/ecommerce-website/
+├── index.html        # Main HTML file (home page)
+├── style.css         # CSS file for styling the website
+├── script.js         # JavaScript file
+├── images/           # Folder containing images for products, logos, and features
+└── README.md         # This README file
 
 
 ## Installation
